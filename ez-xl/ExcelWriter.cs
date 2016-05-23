@@ -78,7 +78,7 @@ namespace ez_xl
                     else
                     {
                         using (var outStream = entry.Open())
-                        using (var destStream = result.CreateEntry(entry.Name, CompressionLevel.Optimal).Open())
+                        using (var destStream = result.CreateEntry(entry.FullName, CompressionLevel.Optimal).Open())
                         {
                             outStream.CopyTo(destStream);
                         }
