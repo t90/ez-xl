@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExcelODS", "SimpleExcelODS\SimpleExcelODS.csproj", "{6A8B2A78-842A-4E56-ACEF-061571B42CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ez-xl", "ez-xl\ez-xl.csproj", "{BB3AEB1F-109C-4553-A308-BFFC3BAE8136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8B2A78-842A-4E56-ACEF-061571B42CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8B2A78-842A-4E56-ACEF-061571B42CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8B2A78-842A-4E56-ACEF-061571B42CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8B2A78-842A-4E56-ACEF-061571B42CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3AEB1F-109C-4553-A308-BFFC3BAE8136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3AEB1F-109C-4553-A308-BFFC3BAE8136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3AEB1F-109C-4553-A308-BFFC3BAE8136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3AEB1F-109C-4553-A308-BFFC3BAE8136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

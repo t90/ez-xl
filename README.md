@@ -21,6 +21,7 @@ Let's say you saved file in "c:\work" as "template.ods"
 
 And the template you have looks like (it has two pages called 'Sheet1' and 'Sheet2')
 
+```
 Sheet1
  |    A      |    B     |   
 1|UserName   |    Fee   |
@@ -30,7 +31,7 @@ Sheet2
   |    A      |    B              |
 1 |UserName   |    Service Date   |
 2 |%UserName  |%ServiceDate       |
-
+```
 
 
 Add the ez-xl project into your solution, use the following snippet to use that file as a template and create multiple excel files 
