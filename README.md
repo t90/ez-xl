@@ -18,6 +18,8 @@ feed that template to the library and let it merge excel with your data.
 - Click "Save"
 - Click "Yes" for the prompt
 
+## Create your Excel files from C# code
+
 Let's say you saved file in "c:\work" as "template.ods"
 
 And the template you have looks like (it has two pages called 'Sheet1' and 'Sheet2')
