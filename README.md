@@ -58,7 +58,10 @@ public class User{
     }
   }
 ```
-
+## How to use it in your solution?
+* The easiest way is to copy/paste ExcelWriter.cs and LICENSE files into your solution. 
+* Alternatively you can include the project
+* Nuget? Well maybe
 
 
 
